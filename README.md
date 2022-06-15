@@ -5,7 +5,9 @@
 ## Array
 | Title | Solution | Difficulty | Time | Space |
 | ----- | -------- | ---------- | ---- | ----- |
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](/53-maximum-subarray/53-maximum-subarray.py )| Easy | O(n)| O(1)|
 [167-two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](/167-two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py )| Medium | O(n)| O(n)|
+
 
 
 
