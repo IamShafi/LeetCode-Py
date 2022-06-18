@@ -15,12 +15,13 @@
 | ----- | -------- | ---------- | ---- | ----- |
 [198. House Robber](https://leetcode.com/problems/house-robber/)| [Python](./167-two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py)| Medium | O(n)| O(1)|
 
-https://leetcode.com/problems/merge-two-binary-trees/submissions/
+
 
 ## Tree
 | Title | Solution | Difficulty | Time | 
 | ----- | -------- | ---------- | ---- | 
 <!-- [ProblemName](https://leetcode.com/problems/   /)| [Python](./name .py)| Medium | O(n)| O(1)| !-->
-[617-merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees.py)| Medium | O(n+m )|
+[617-merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees/.py)| Medium | O(n+m)| O(1)|
+
 
 
