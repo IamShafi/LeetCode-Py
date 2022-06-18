@@ -20,8 +20,7 @@
 ## Tree
 | Title | Solution | Difficulty | Time | 
 | ----- | -------- | ---------- | ---- | 
-<!-- [ProblemName](https://leetcode.com/problems/   /)| [Python](./name .py)| Medium | O(n)| O(1)| !-->
-[617-merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees/.py)| Medium | O(n+m)| O(1)|
+[617-merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees/.py)| Medium | O(n+m)
 
 
 
