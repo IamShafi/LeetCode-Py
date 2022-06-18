@@ -7,8 +7,10 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         
+        #is P&Q are empty tree?
         if not p and not q:
             return True
+        #is one of them null or is their value same?
         if not p or not q or p.val != q.val:
             return False
             
