@@ -18,10 +18,9 @@
 
 
 ## Tree
-| Title | Solution | Difficulty | Approach | 
-| ----- | -------- | ---------- | ---- | 
-
-[129-sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Python](./617-merge-two-binary-trees/.py)| Medium | call the dfs function for the node im gonna pass in the root with initial sum equal to zero, BaseCase: see if root is not null, multiply the sum by 10 before adding current value, if this is a leaf node? doesn't have left/right child then simply return the number we just compute it.
+| Title | Solution | Difficulty | 
+| ----- | -------- | ---------- | 
+[617-merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees/.py)| Medium |
 
 
 
