@@ -18,9 +18,9 @@
 
 
 ## Tree
-| Title | Solution | Difficulty | 
-| ----- | -------- | ---------- | 
-[617-merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Python](./617-merge-two-binary-trees/.py)| Medium |
+| Problem No | 
+| ----- | 
+[129](https://github.com/IamShafi/LeetCode-Py/tree/main/129-sum-root-to-leaf-numbers)| 
 
 
 
