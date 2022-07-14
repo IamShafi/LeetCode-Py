@@ -17,13 +17,5 @@
 
 
 
-## Tree
-| Problem No | 
-| ----- | 
-[617](https://github.com/IamShafi/LeetCode-Py/tree/main/617-merge-two-binary-trees)|
-[129](https://github.com/IamShafi/LeetCode-Py/tree/main/129-sum-root-to-leaf-numbers)| 
-[108](https://github.com/IamShafi/LeetCode-Py/tree/main/108-convert-sorted-array-to-binary-search-tree)|
-
-
 
 
